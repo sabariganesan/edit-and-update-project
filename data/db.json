@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "title": "bike",
+      "price": "1000",
+      "rating": "8"
+    },
+    {
+      "id": "2",
+      "title": "car",
+      "price": "5000",
+      "rating": 7.8
+    },
+    {
+      "id": "3",
+      "title": "bus",
+      "price": "10000",
+      "rating": 7.8
+    }
+  ]
+}
